@@ -54,5 +54,3 @@ if __name__ == '__main__':
             vuln_search_recursive(path=vuln_lib, target=vuln_lib, project=project, proj_libs=proj_libs)
     except:
         print("", end='')
-
-
